@@ -1,4 +1,4 @@
-# Python-Portfolio-Project-3
+# Portfolio Project 3
 ## A  portfolio project using Python
 The aim of this project was to investigate and interpret data that could be found in reality.
 
